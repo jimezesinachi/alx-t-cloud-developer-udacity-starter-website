@@ -12,7 +12,7 @@ The files included are:
 
 * /css - CSS files for the website.
 
-* /screenshots - Screenshots of my steps to deployemnt using the AWS management console
+* /screenshots - Screenshots of my steps to deployment using the AWS management console
 
 ## S3 deployment link: <http://jim-ezesinachi-travel-blog.s3-website-us-east-1.amazonaws.com/>
 
